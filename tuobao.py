@@ -14,7 +14,7 @@ from selenium.webdriver.common.keys import Keys
 import csv
 
 # 指定ChromeDriver的完整路径
-driver_path = r'C:\Users\zhang\Desktop\项目\qq\chromedriver.exe'  # 替换为您的 chromedriver 实际路径
+driver_path = r'C:\Users\chromedriver.exe'  # 替换为您的 chromedriver 实际路径
 
 # 设置Chrome选项
 chrome_options = Options()
